@@ -1,0 +1,41 @@
+[33mcommit 2d22d26f3ee7608844d6023fb1e5301c99ba8c3b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: athy <182241660+athyy1@users.noreply.github.com>
+Date:   Sun Apr 27 03:07:46 2025 -0300
+
+    Corrige tag width e adiciona estrutura completa
+    
+    - Corrige o atributo width da imagem que antes havia um erro gramatical
+    - Adiciona descrição breve do prato
+    - Lista ingredientes necessários
+    - Cria passo a passo do preparo
+    - Corrige o atributo width da imagem que antes havia um erro gramatical
+
+[33mcommit 85a0ce26d7063240cc8c41aaee9ad2318946b329[m
+Author: athy <182241660+athyy1@users.noreply.github.com>
+Date:   Sun Apr 27 02:38:56 2025 -0300
+
+    Adiciona imagem do hambúrguer e atualiza a página de receita
+
+[33mcommit ba93bb425893aff010dc32f7a3aab02bb5c85004[m
+Author: athy <182241660+athyy1@users.noreply.github.com>
+Date:   Sun Apr 27 01:06:11 2025 -0300
+
+    "Cria estrutura inicial do projeto
+    
+    - Define a estrutura básica do HTML5 com meta tags
+    - Adiciona a index.html e a página hamburguer.html
+    - Adiciona elemento <h1> com título 'Hamburguer' na página hamburguer.html
+    - Adiciona link <a> para voltar à página inicial(index.html) em hamburguer.html
+    "
+
+[33mcommit f812ad64ce9a3f4135ea14d175b1aaf81d05fd25[m
+Author: athy <182241660+athyy1@users.noreply.github.com>
+Date:   Sun Apr 27 00:55:42 2025 -0300
+
+    Adicionado informações basicas sobre o projeto no README.me
+
+[33mcommit 351aed7a93c08bcbaf5da890e0d91fe5b2232b46[m
+Author: athyy1 <182241660+athyy1@users.noreply.github.com>
+Date:   Sun Apr 27 00:48:59 2025 -0300
+
+    Initial commit
